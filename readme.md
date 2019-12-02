@@ -4,17 +4,17 @@
 
 ```
 - Create index.html, about.html, services.html and contact.html pages in your application folder
-- Create **css** and **images** folder in the application folder.
-- Create **style.css** file in **css** folder
+- Create ** css ** and ** images ** folder in the application folder.
+- Create ** style.css ** file in **css** folder
 - Generate basic html scaleton using shortcut technique [Hint: Emmet plugin]
-- Link **style.css** in the **index.html** in the head section
+- Link ** style.css ** in the **index.html** in the head section
 - Write below code in **style.css** to check, whether style sheet connected with html or not and run the index page
 
 >body{background:red;}
 
 - download flexboxgrid css from the provided location and add flex box grid css file in css folder.
 - flexbox grid file location :  http://flexboxgrid.com/
-- link **flexboxgric.css** in the index.html file on top of custom link
+- link **flexboxgrid.css** in the index.html file on top of custom link
 
 ```
 =============================================================================================================
