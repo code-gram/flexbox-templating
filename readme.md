@@ -86,8 +86,8 @@ Below are some of the observations.
     
     - extra small screen :  middle of the section
     - small screen : middle of the section
-    - tablet screen: center of the section
-    - desktop screen: center of the section
+    - tablet screen: middle of the section
+    - desktop screen: middle of the section
 - Inside the row, a column division will be there covering 7 cols in case of large screen, otherwise 10 cols for all out of 12 cols. This division will also have showcase-content section.
 - Inside the showcase-content division, put one **h1** tag to display Tag line and **p** tag for info part.
         
